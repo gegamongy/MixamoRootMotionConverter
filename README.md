@@ -8,4 +8,4 @@ This is assuming you have an Armature with a "Root" bone on the floor, and a "Hi
 4. Run the script and root motion will be removed from the "Hips" bone and applied to the "Root" bone.
 
 Video tutorial:
-https://youtu.be/4mQb_b1Y6S8
+https://youtu.be/OQnhdJDfQJ4
